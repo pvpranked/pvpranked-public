@@ -37,9 +37,23 @@ Replay viewer capable of replaying the match exactly as you experienced it in-ga
 #### The **Improvement Engine.**
 An engine that tells you what you're doing wrong in your matches and what you should have done - built by Tier 3+ PVPers who want to help others learn.
 The basis of the statistics engine is code that forms a timeline of every action throughout a match and stores it next to a replay file.  
-But it will also be able to recognize patterns. Much of PVP is stringing together techniques - knowing when to p-crit, how to use spacing, how to follow up on a shield disable, what techniques are okay when your own shield is disabled - all things that a computer can recognize if you are doing or not doing.  
-The pictured end result is one where you can open a replay file and see a timeline of every technique you used over the match, each marked with a rating on how good of a decision it was and what the best options were in that situation.
+But it will also be able to recognize patterns. Much of PVP is stringing together techniques - knowing when to p-crit, how to use spacing, how to follow up on a shield disable, what techniques are okay when your own shield is disabled - all things a computer can recognize
+The pictured end result is one where you can open a replay file and see a timeline of every technique you used over the match, each marked with a rating on how good of a decision it was and what the best options were.
 You might see that it marked a KB-hit trade as wrong, and when you hover over it, it informs you that you should be following up on a shield disable by getting close and critting or by comboing them.
+
+#### Cosmetics and Monetization
+Monetization will always be limited to cosmetics.
+Here's the plan:
+* Titles: Pick a title for below your name, some examples are: "Monarch", "I'm going bald", "my ping is higher", "Nethpot more like Methpot" and basically anything else we think of (suggestions for this will open when it becomes a feature;) )
+For $1.49, you can pick any title you want and own it. For some other amount, you can permanently get every title.
+   * Note that some titles that are locked behind achievements, like "Diamond Contender", "
+* Colored lightning! Normally lightning strikes when you kill the opponent, but with this you can choose what color you want it to be.
+* The ability to name your weapons in matches: This is cool, but it also lets you use Optifine texture packs.
+
+Also, for somewhere around $10-15, you can get a massive package that basically includes every cosmetic.
+
+#### Achievements
+This seems like a cool thing I'll probably add eventually, the improvement engine framework will make this much easier since the match timeline thing it makes would be able to easily recognize something like winning a sword match without taking damage.
 
 ## Is PVP Ranked Safe?
 
