@@ -20,19 +20,24 @@ Once the match is over your Skill Rating, SR, is corrected based on the ELO rati
 * Matches you against players near your skill rating and of a similar region, to ensure low ping
 * Patched the most significant cause of Ghost Totems
 * New volume options: Change the volume of every PVP Sound effect individually! (crits, totem pops, etc.)
-* Anticheat: Client-side anticheat checks your mods list against a whitelist
+* Anticheat: Client-side anticheat checks your mods list against a whitelist making hacked clients almost impossible
 
 # Planned for before release: (Next 1-3 months, more info in the discord)
 
-* Replay System capable of replaying the match exactly as you experienced it in-game
+* Statistics tracking for every mode that tracks all relevant and useful stats for the mod: For example, critical hit accuracy, shield block accuracy, critical hits per match, shield blocks per match, % of hits are critical hits, etc. Also available to you will be the average of that stat for players above, below, and at your skill so you can better understand your strengths and weaknesses.
+* In the future it will also include techniques, such as p-crits, s-taps, auto-hitting, walkthroughs, etc. 
 
 # Plans for the future:
 
+####Replay System
+Replay viewer capable of replaying the match exactly as you experienced it in-game
 
-
-
-
-
+#### The **Improvement Engine.**
+An engine that tells you what you're doing wrong in your matches and what you should have done - built by Tier 3+ PVPers who want to help others learn.
+The basis of the statistics engine is code that forms a timeline of every action throughout a match and stores it next to a replay file.  
+But it will also be able to recognize patterns. Much of PVP is stringing together techniques - knowing when to p-crit, how to use spacing, how to follow up on a shield disable, what techniques are okay when your own shield is disabled - all things that a computer can recognize if you are doing or not doing.  
+The pictured end result is one where you can open a replay file and see a timeline of every technique you used over the match, each marked with a rating on how good of a decision it was and what the best options were in that situation.
+You might see that it marked a KB-hit trade as wrong, and when you hover over it, it informs you that you should be following up on a shield disable by getting close and critting or by comboing them.
 
 ## Is PVP Ranked Safe?
 
