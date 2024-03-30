@@ -99,11 +99,11 @@ https://github.com/pvpranked/pvpranked-public/blob/main/LISCENSE.txt
 
 ## Other people's stuff that I used:
 
-* [Auto update code by Distant Horizons](https://modrinth.com/mod/distanthorizons) under the license [LGPL v3 License](gitlab.com/jeseibel/distant-horizons/-/blob/main/LICENSE.LESSER.txt)
-* [_____]{____} under the license [_____](_____)
-* [_____]{____} under the license [_____](_____)
-* [_____]{____} under the license [_____](_____)
-* [_____]{____} under the license [_____](_____)
-* [_____]{____} under the license [_____](_____)
+* [Auto update code by Distant Horizons](https://modrinth.com/mod/distanthorizons) under the license [LGPL v3 License](https://gitlab.com/jeseibel/distant-horizons/-/blob/main/LICENSE.LESSER.txt)
+* [Night-Config by ElectronWill](https://github.com/TheElectronWill/night-config) under the license [LGPL-3.0](https://github.com/TheElectronWill/night-config/blob/master/LICENSE)
+* [Cloth Config by Shedaniel](https://github.com/shedaniel/cloth-config) under the license [LGPL-3.0](https://github.com/shedaniel/cloth-config/blob/v8/LICENSE.md)
+* [yGuard by yWorks](https://github.com/yWorks/yGuard/tree/master) under the license [MIT](https://github.com/yWorks/yGuard/blob/master/LICENSE)
+* [Lightning Image by Freepik](https://www.freepik.com/free-vector/cartoon-shock-animation-frames_14140646.htm#query=lightning%20animation&position=1&from_view=keyword&track=ais)
+* [Impact Sound by Submority](https://pixabay.com/sound-effects/traimory-hit-low-gun-shot-cinematic-trailer-sound-effects-161154/)
 
 
