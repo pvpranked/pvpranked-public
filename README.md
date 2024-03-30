@@ -1,8 +1,8 @@
 # PVP Ranked
 
-I want to download this mod: https://modrinth.com/mod/pvpranked
-I want to report a problem with this mod: https://github.com/pvpranked/pvpranked-public/issues
-I want to join the Discord: https://discord.gg/2dTYcaxaFX
+I want to download this mod: https://modrinth.com/mod/pvpranked  
+I want to report a problem with this mod: https://github.com/pvpranked/pvpranked-public/issues  
+I want to join the Discord: https://discord.gg/2dTYcaxaFX  
 I want to make a suggestion! : either join the discord and find #suggestions or make an issue, your choice
 
 Hi!
@@ -24,13 +24,14 @@ Once the match is over your Skill Rating, SR, is corrected based on the ELO rati
 
 # Is PVP Ranked Safe?
 
-Yes. Although this isn't a legal guarantee, nothing bad can happen to you just because you use PVP Ranked.
+Yes. Nothing bad can happen to you just because you use PVP Ranked.
 * Is the internet part safe? - Yes. Although you are joining someone else's single-player world as if by LAN, all the internet traffic goes through the PVP Ranked servers first. If you're worried about more technical internet security, PVP Ranked uses websocket connections through HTTPS and HTTPS itself, nothing else.
 * Is the mod itself safe? - Yes. I (pvpranked is my discord username) am the only developer and there's nothing bad in it. I'm hoping when PVP Ranked gets larger, I can find a respected PVPer who also understands code so that I can give access to the source code so the community doesn't have to take my word for it like they do with every other mod they've ever installed.
 * Can other players hurt me at all? I am joining their single-player world, after all. - No! Normally there's maybe one or two ways they could try to get you, but both of them are completely shut down. It is literally completely safe.
     * No. Normally, LAN worlds can force new players to download a resource pack - this is disabled. The server cannot do it, and the mod will automatically reject anything another player tries to send you.
     * Couldn't they just... send me a virus over the internet? - Nope. Minecraft doesn't work like that. Short explanation: When you join any Minecraft server, the server can't just send you files. Anytime any server sends you anything, they send you a package in two parts. The first part is the type: for example, 'playerTeleportPacket'. The second part is the data - for a teleport packet it might be '4234, 80, -522', the coordinates you're being sent to. Anything that doesn't match one of those types is rejected. And the only type that lets them send you anything hurtful is when they send you the resource pack which is, as I said above, covered.
-* What if they doxx me? I'm joining their server, so don't they have my IP address? - No. All of your communications with the other player is first sent through the PVP Ranked servers, then to the other player. This means the other player sees the IP address of the PVP Ranked servers and isn't able to access your own.
+* What if they doxx me? I'm joining their server, so don't they have my IP address? - You cannot doxx others, or be doxxed, through PVP Ranked. All of your communications with the other player is first sent through the PVP Ranked servers, then to the other player. This means the other player sees the IP address of the PVP Ranked servers and isn't able to access your own.
+(none of this is legal advice)
 
 # Super technical details on how stuff works:
 
@@ -54,7 +55,7 @@ Minecraft servers are so expensive to run because they have to simulate the worl
 
 ### How it actually works
 
-When you enter a match, one player is picked to host the match. An internal singleplayer world reserved for PVP Ranked testing is reset and then opened. First, the host joins, and then 
+When you enter a match, one player is picked to host the match. An internal singleplayer world reserved for PVP Ranked testing is reset and then opened. First, the host joins, and then PVP Ranked makes the world available for another player to join - the code is simlar to the code for Minecraft's "Open to LAN" functionality.
 
 You begin talking to another player *through* whichever PVP Ranked server is closest. If you want to send a message to the other player, you first send it to the PVP Ranked server, and the server sends it to them.
 
