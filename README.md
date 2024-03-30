@@ -90,6 +90,9 @@ But what if we had each player simulate their own match?
 
 When you enter a match, one player is picked to host the match. An internal singleplayer world reserved for PVP Ranked testing is reset and then opened. First, the host joins, and then PVP Ranked makes the world available for another player to join - the code is simlar to the code for Minecraft's "Open to LAN" functionality.
 
+## Liscense:
+https://github.com/pvpranked/pvpranked-public/blob/main/LISCENSE.txt
+
 You begin talking to another player *through* whichever PVP Ranked server is closest. If you want to send a message to the other player, you first send it to the PVP Ranked server, and the server sends it to them.
 
 
