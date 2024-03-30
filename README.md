@@ -44,9 +44,9 @@ You might see that it marked a KB-hit trade as wrong, and when you hover over it
 #### Cosmetics and Monetization
 Monetization will always be limited to cosmetics.
 Here's the plan:
-* Titles: Pick a title for below your name, some examples are: "Monarch", "I'm going bald", "my ping is higher", "Nethpot more like Methpot" and basically anything else we think of (suggestions for this will open when it becomes a feature;) )
+* Titles: Pick a title for below your name, some examples are: "Monarch", "I'm going bald", "my ping is higher", "Methpot" and basically anything else we think of (suggestions for this will open when it becomes a feature;) )
 For $1.49, you can pick any title you want and own it. For some other amount, you can permanently get every title.
-   * Note that some titles that are locked behind achievements, like "Diamond Contender", "
+   * Note that some titles that are locked behind achievements, like "Diamond Contender" and "Peak #55 Worldwide"
 * Colored lightning! Normally lightning strikes when you kill the opponent, but with this you can choose what color you want it to be.
 * The ability to name your weapons in matches: This is cool, but it also lets you use Optifine texture packs.
 
