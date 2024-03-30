@@ -57,14 +57,12 @@ This seems like a cool thing I'll probably add eventually, the improvement engin
 
 ## Is PVP Ranked Safe?
 
-Yes. The mod is coded to be safe.
+Yes. We've taken steps to cover all the ways someone could attempt to harm you through PVP Ranked.
 * Is the internet part safe? - Yes. Although you are joining someone else's single-player world as if by LAN, all the internet traffic goes through the PVP Ranked servers first. If you're worried about more technical internet security, PVP Ranked uses websocket connections through HTTPS and HTTPS itself, nothing else.
 * What if they doxx me? I'm joining their server, so don't they have my IP address? - You cannot doxx others, or be doxxed, through PVP Ranked. All of your communications with the other player is first sent through the PVP Ranked servers, then to the other player. This means the other player sees the IP address of the PVP Ranked servers and isn't able to access your own.
 * Is the mod itself safe? - Yes. I (pvpranked is my discord username) am the only developer and have put nothing malicious in. I'm hoping when PVP Ranked gets larger, I can find a respected PVPer who also understands code so that I can give them access to the source code so the community doesn't have to take my word for it like they already do with every other mod they've ever installed.
 * What if they send me a recommended resource pack? - They can't! And if they do, you won't receive it. Normally, LAN worlds can force new players to download a resource pack - this is disabled. Players cannot send resource packs to each other, and even if they did the other player automatically rejects them, so you are safe.
 * Couldn't they just... send me a virus over the internet if they can send me stuff? - Nope. Minecraft doesn't work like that. Short explanation: When you join any Minecraft server, the server can't just send you files. Anytime any server sends you anything, they send you a package in two parts. The first part is the type: for example, 'playerTeleportPacket'. The second part is the data - for a teleport packet it might be '4234, 80, -522', the coordinates you're being sent to. Anything that doesn't match one of those types is rejected. And the only type I'm aware of that lets them send you anything hurtful is when they send you the resource pack which is, as I said directly above, covered.
-
-(none of this is legal advice)
 
 # Super technical details on how stuff works:
 
