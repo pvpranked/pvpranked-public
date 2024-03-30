@@ -21,7 +21,7 @@ Once the match is over your Skill Rating, SR, is corrected based on the ELO rati
 * Patched the most significant cause of Ghost Totems
 * New volume options: Change the volume of every PVP Sound effect individually! (crits, totem pops, etc.)
 * Anticheat: Client-side anticheat checks your mods list against a whitelist making hacked clients almost impossible
-* Profile Screen, leaderboards, and everything else you would expect from
+* Profile Screen, leaderboards, and everything else you could want
 * Mod updates itself
 
 # Planned for before release: (Next 1-3 months, more info in the discord)
