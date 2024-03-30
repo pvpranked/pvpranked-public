@@ -29,7 +29,7 @@ Once the match is over your Skill Rating, SR, is corrected based on the ELO rati
 
 # Plans for the future:
 
-####Replay System
+#### Replay System
 Replay viewer capable of replaying the match exactly as you experienced it in-game
 
 #### The **Improvement Engine.**
