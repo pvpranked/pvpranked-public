@@ -51,7 +51,7 @@ For $1.49, you can pick any title you want and own it. For some other amount, yo
 * Colored lightning! Normally lightning strikes when you kill the opponent, but with this you can choose what color you want it to be.
 * The ability to name your weapons in matches: This is cool, but it also lets you use Optifine texture packs.
 
-Also, for somewhere around $10-15, you can get a massive package that basically includes every cosmetic.
+You'll also be able to buy a package that just gives you every cosmetic.
 
 #### Achievements
 This seems like a cool thing I'll probably add eventually, the improvement engine framework will make this much easier since the match timeline thing it makes would be able to easily recognize something like winning a sword match without taking damage.
