@@ -95,8 +95,8 @@ You begin talking to another player *through* whichever PVP Ranked server is clo
 
 
 
-# Liscense:
-https://github.com/pvpranked/pvpranked-public/blob/main/LISCENSE.txt
+# License:
+https://github.com/pvpranked/pvpranked-public/blob/main/LICENSE.txt
 
 ## Other people's stuff that I used:
 
