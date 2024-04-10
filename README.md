@@ -89,11 +89,22 @@ But what if we had each player simulate their own match?
 
 ### How it actually works
 
-When you enter a match, one player is picked to host the match. An internal singleplayer world reserved for PVP Ranked testing is reset and then opened. First, the host joins, and then PVP Ranked makes the world available for another player to join - the code is simlar to the code for Minecraft's "Open to LAN" functionality.
+When you enter a match, one player is picked to host the match. An internal singleplayer world reserved for PVP Ranked testing is reset and then opened. First, the host joins, and then PVP Ranked makes the world available for another player to join - the code is similar to the code for Minecraft's "Open to LAN" functionality.
 
 You begin talking to another player *through* whichever PVP Ranked server is closest. If you want to send a message to the other player, you first send it to the PVP Ranked server, and the server sends it to them.
 
+# Can I use PVP Ranked with my favorite client/mod/toaster?
 
+You can only use whitelisted mods and clients as an anticheat measure, but we plan to include every mainstream non-hacked client and mod we can in the whitelist! (This includes every client and mod that's whitelisted for tier testing)
+So to be clear, this means you'll be able to use:
+* Lunar
+* Feather
+* Badlion
+* Any other client that isn't cheats
+* Armor HUD
+* Custom crosshair
+* And any other mod that you would be able to use in a Tier Test!
+If you want to use a mod or client that isn't whitelisted and you think it should be, plug it in #suggestions on the discord and ping us and we'll look at it
 
 # License:
 https://github.com/pvpranked/pvpranked-public/blob/main/LICENSE.txt
