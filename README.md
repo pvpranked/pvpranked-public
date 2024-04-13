@@ -117,5 +117,6 @@ https://github.com/pvpranked/pvpranked-public/blob/main/LICENSE.txt
 * [yGuard by yWorks](https://github.com/yWorks/yGuard/tree/master) under the license [MIT](https://github.com/yWorks/yGuard/blob/master/LICENSE)
 * [Lightning Image by Freepik](https://www.freepik.com/free-vector/cartoon-shock-animation-frames_14140646.htm#query=lightning%20animation&position=1&from_view=keyword&track=ais)
 * [Impact Sound by Submority](https://pixabay.com/sound-effects/traimory-hit-low-gun-shot-cinematic-trailer-sound-effects-161154/)
+* [Realistic Light Bursts by pikisuperstar on Freepik](https://www.freepik.com/free-vector/collection-realistic-bursts-light_4921686.htm?query=fire%20animation%20frames#from_view=detail_alsolike)
 
 
