@@ -12,7 +12,7 @@ PVP Ranked is a project to allow all 1.9+ PVPers to compete against each other w
 
 PVP Ranked is a mod that users run, not a Minecraft server. Players can select what gamemodes they want to queue for from a main screen accessed in the title screen. They will then be matched against an opponent in one of those modes, finding the player closest to you in skill, optimized for low ping.
 
-Once in a match, players 1v1 to the death until they've won enough rounds to win the match. 
+Once in a match, players 1v1 to the death until they've won enough rounds to win the match.  
 Once the match is over your Skill Rating (SR), is corrected based on the ELO rating system using the results of the match. In general, winning a match against someone of equal skill to you will increase your SR, and losing will decrease it. Players are rated on SRs 1-6000, a higher SR denoting a higher skilled player. The SR spread is split into 6 ranks: Copper, Silver, Gold, Diamond, Masters, and Champion. 
 
 
