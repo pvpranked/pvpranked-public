@@ -34,6 +34,7 @@ Once the match is over your Skill Rating (SR), is corrected based on the ELO rat
 
 #### Replay System
 Replay viewer capable of replaying the match exactly as you experienced it in-game
+you will also be able to spectate the highest skill match going on at that time (dw about lag to either player, we have it covered)
 
 #### The **Improvement Engine.**
 An engine that tells you what you're doing wrong in your matches and what you should have done - built by Tier 3+ PVPers who want to help others learn.
