@@ -28,7 +28,8 @@ Once the match is over your Skill Rating (SR), is corrected based on the ELO rat
 # Planned for before release: (Next 1-3 months, more info in the discord)
 
 * Statistics tracking for every mode that tracks all relevant and useful stats for the mod: For example, critical hit accuracy, shield block accuracy, critical hits per match, shield blocks per match, % of hits are critical hits, etc. Also available to you will be the average of that stat for players above, below, and at your skill so you can better understand your strengths and weaknesses.
-* In the future it will also include techniques, such as p-crits, s-taps, auto-hitting, walkthroughs, etc. 
+* In the future it will also include techniques, such as p-crits, s-taps, auto-hitting, walkthroughs, etc.
+* Fully accurate match replays
 
 # Plans for the future:
 
