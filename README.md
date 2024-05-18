@@ -1,6 +1,6 @@
 # PVP Ranked
 
-* I want to download this mod: Nope not yet denied
+* I want to download this mod (**Even though outside of betas, there are not expected to be other people in queue right now**): https://modrinth.com/mod/pvpranked/versions
 * I want to report a problem with this mod: https://github.com/pvpranked/pvpranked-public/issues  
 * I want to join the Discord: https://discord.gg/2dTYcaxaFX  
 * I want to make a suggestion! : either join the discord and find #suggestions, or [make an issue](https://github.com/pvpranked/pvpranked-public/issues), your choice
