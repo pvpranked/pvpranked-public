@@ -45,7 +45,7 @@ The pictured end result is one where you can open a replay file and see a timeli
 You might see that it marked a KB-hit trade as wrong, and when you hover over it, it informs you that you should be following up on a shield disable by getting close and critting or by comboing them.
 
 #### Cosmetics and Monetization
-Monetization will always be limited to cosmetics.
+Monetization will be limited to cosmetics.
 Here's the plan:
 * Titles: Pick a title for below your name, some examples are: "Monarch", "I'm going bald", "my ping is higher", "Methpot" and basically anything else we think of (suggestions for this will open when it becomes a feature;) )
 For $1.49, you can pick any title you want and own it. For some other amount, you can permanently get every title.
